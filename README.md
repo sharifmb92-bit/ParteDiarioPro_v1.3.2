@@ -1,0 +1,1 @@
+# parteDiarioPro_v1.3.2
